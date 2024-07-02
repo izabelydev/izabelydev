@@ -1,8 +1,8 @@
-## Hi there! I'm Iza
+## Olá! Eu sou a Iza
 
-- 💻 I’m studying Web Development, my goal is to be FullStack
-- 💬 I'm practicing English every day, towards fluency!
-- 😄 Pronouns: ela/dela
+- 💻 Sou Desenvolvedora Front-end Junior
+- 🤖 Estudo com [desafios](https://github.com/izabelydev/Desafios-JavaScript-Udemy-) e projetos.
+- 😄 Pronome: ela/dela
 
 <div align="center">
         <a href="https://github.com/izabelydev/github-readme-stats"><img height="165em" alt="Izabely's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=izabelydev&show_icons=true&theme=dracula">
