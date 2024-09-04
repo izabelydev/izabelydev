@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Iza
 
-- 💻 Sou Desenvolvedora Front-end Junior
-- 🤖 Estudo com [desafios](https://github.com/izabelydev/Desafios-JavaScript-Udemy-) e projetos.
+- 💻 Sou Técnica de Sistemas Jr
+- 🤖 Estudo com [desafios](https://github.com/izabelydev/Desafios-JavaScript-Udemy-), [Bootcamps](https://github.com/izabelydev/BootcampsDio.me) e projetos.
 - 😄 Pronome: ela/dela
 
 <div align="center">
