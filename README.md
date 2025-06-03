@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Iza
 
 - 💻 Sou Técnica de Sistemas Jr
-- 🤖 Estudo com [desafios](https://github.com/izabelydev/Desafios-JavaScript-Udemy-), [Bootcamps](https://github.com/izabelydev/BootcampsDio.me) e projetos.
+- Java | Python | AWS | Terraform
 - 😄 Pronome: ela/dela
 
 <div align="center">
