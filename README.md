@@ -1,8 +1,6 @@
 ## Olá! Eu sou a Iza
 
-- 💻 Sou Técnica de Sistemas Jr
-- Java | Python | AWS | Terraform
-- 😄 Pronome: ela/dela
+- 💻 Técnica de Sistemas Jr
 
 <div align="center">
         <a href="https://github.com/izabelydev/github-readme-stats"><img height="165em" alt="Izabely's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=izabelydev&show_icons=true&theme=dracula">
